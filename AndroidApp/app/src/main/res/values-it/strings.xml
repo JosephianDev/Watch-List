@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La mia Watch List</string>
+    <string name="btn_add_new_film">Aggiungi nuovo film</string>
+    <string name="msg_film_inserted_successful">Film inserito correttamente</string>
+    <string name="msg_button_delete">Elimina</string>
+    <string name="msg_button_delete_film">Rimuovi film</string>
+    <string name="msg_film_deleted_successful">Film rimosso correttamente</string>
+    <string name="msg_button_update">Aggiorna</string>
+    <string name="btn_update_film">Aggiorna film</string>
+    <string name="msg_film_update_successful">Film aggiornato correttamente</string>
+    <string name="msg_button_close">Chiudi</string>
+    <string name="txt_insert_film_title">Inserisci il titolo del film</string>
+    <string name="txt_insert_film_release_date">Inserisci la data di pubblicazione del film</string>
+    <string name="txt_insert_film_runtime">Inserisci la durata del film (in minuti)</string>
+    <string name="txt_insert_film_genre">Inserisci il genere del film</string>
+    <string name="txt_insert_film_country">Inserisci il paese del film</string>
+    <string name="chb_genre_action">Azione</string>
+    <string name="chb_genre_adventure">Avventura</string>
+    <string name="chb_genre_comedy">Commedia</string>
+    <string name="chb_genre_drama">Drammatico</string>
+    <string name="chb_genre_science_fiction">Fantascienza</string>
+    <string name="chb_genre_horror">Horror</string>
+    <string name="chb_genre_romance">Romantico</string>
+    <string name="chb_genre_thriller">Giallo</string>
+</resources>

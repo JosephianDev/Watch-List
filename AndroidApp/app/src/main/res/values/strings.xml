@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Watch List</string>
+    <string name="btn_add_new_film">Add new film</string>
+    <string name="msg_film_inserted_successful">Film inserted successful</string>
+    <string name="msg_button_delete">Delete</string>
+    <string name="msg_button_delete_film">Delete Film</string>
+    <string name="msg_film_deleted_successful">Film deleted successful</string>
+    <string name="msg_button_update">Update</string>
+    <string name="btn_update_film">Update film</string>
+    <string name="msg_film_update_successful">Film updated successful</string>
+    <string name="msg_button_close">Close</string>
+    <string name="txt_insert_film_title">Write the film title</string>
+    <string name="txt_insert_film_release_date">Insert the release date of film</string>
+    <string name="txt_insert_film_runtime">Write the film runtime (in min)</string>
+    <string name="txt_insert_film_genre">Insert the film genre</string>
+    <string name="txt_insert_film_country">Insert film country</string>
+    <string name="chb_genre_action">Action</string>
+    <string name="chb_genre_adventure">Adventure</string>
+    <string name="chb_genre_comedy">Comedy</string>
+    <string name="chb_genre_drama">Drama</string>
+    <string name="chb_genre_science_fiction">Science fiction</string>
+    <string name="chb_genre_horror">Horror</string>
+    <string name="chb_genre_romance">Romance</string>
+    <string name="chb_genre_thriller">Thriller</string>
+
+</resources>
